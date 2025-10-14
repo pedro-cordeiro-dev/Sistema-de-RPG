@@ -1,7 +1,7 @@
 # 🧙‍♂️ Sistema de RPG (Java Puro + JDBC)
 
 ### 🎯 Objetivo
-Projeto desenvolvido com o intuito de demonstrar domínio em **Programação Orientada a Objetos (POO)** — aplicando **herança, polimorfismo e encapsulamento** — e também o uso de **JDBC** para interação direta com o banco de dados (sem uso de JPA).
+Projeto desenvolvido com o intuito de demonstrar domínio em **Programação Orientada a Objetos (POO)**, aplicando **herança, polimorfismo e encapsulamento**, e também o uso de **JDBC** para interação direta com o banco de dados (sem uso de JPA).
 
 ### ⚙️ Tecnologias Utilizadas
 - **Java 17+**
